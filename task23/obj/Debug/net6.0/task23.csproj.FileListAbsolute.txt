@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\homework3\task23\bin\Debug\net6.0\task23.exe
+D:\GeekBrains\С#\homework3\task23\bin\Debug\net6.0\task23.deps.json
+D:\GeekBrains\С#\homework3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+D:\GeekBrains\С#\homework3\task23\bin\Debug\net6.0\task23.dll
+D:\GeekBrains\С#\homework3\task23\bin\Debug\net6.0\task23.pdb
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.dll
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\refint\task23.dll
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.pdb
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+D:\GeekBrains\С#\homework3\task23\obj\Debug\net6.0\ref\task23.dll
